@@ -1,0 +1,13 @@
+#left{
+    background-color: rgb(161, 200, 252);
+    border-radius: 8px ; 
+}
+
+#right{
+    background-color: rgb(88, 144, 228);
+    border-radius: 8px; 
+}
+
+.text{
+    text-align: center;
+}
